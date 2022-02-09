@@ -86,7 +86,7 @@ const MenuItem: React.FC<FooterProps> = ({
               dropdownPosition="top-right"
             /> */}
             <Text color="tertiary" fontSize="13px" display={["none", null, "block"]}>
-              Copyright 2021 Bit Rivals. All rights reserved worldwide.
+              Copyright 2021 Bit Rivals LLC. All rights reserved worldwide.
             </Text>
           </Flex>
           <Flex order={[1, null, 2]} mb={["24px", null, "0"]} justifyContent="space-between" alignItems="center">
@@ -106,7 +106,7 @@ const MenuItem: React.FC<FooterProps> = ({
         </StyledToolsContainer>
         <Flex order={[3, null, 4]}>
           <Text color="tertiary" fontSize="13px" display={["block", null, "none"]}>
-            Copyright 2021 Bit Rivals. All rights reserved worldwide.
+            Copyright 2021 Bit Rivals LLC. All rights reserved worldwide.
           </Text>
         </Flex>
       </Flex>
